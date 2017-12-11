@@ -27,3 +27,12 @@
   color: #f7bf8f;
   font-size: 25px;
 }
+.main{
+  margin-top: 10%;
+  padding-left: 5%;
+  font-size: 20px;
+}
+.main h4,h5{
+  font-size: 23px;
+  font-weight: bolder;
+}
