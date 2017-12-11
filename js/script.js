@@ -6,6 +6,8 @@ for (var num=1;num<=number; num++ ){
     pingPonged.push("pingpong");
   } else if(num % 3 === 0){
     pingPonged.push("ping");
+  } else if(num % 5 ===){
+    pingPonged.push("pong");
   }
 }
 }
