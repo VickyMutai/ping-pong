@@ -9,7 +9,7 @@ for (var num=1;num<=number; num++ ){
   } else if(num % 5 ===){
     pingPonged.push("pong");
   }else{
-    pingPonged.push(number);
+    pingPonged.push(num);
   }
 }
 }
