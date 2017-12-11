@@ -12,17 +12,18 @@
   background-color: #F0F0F0;
 }
 .side{
-  margin-top: 3%;
-  background-color: #009966;
-  height: 100%;
+  margin-top: 2%;
+  background-color: #336633;
   padding-top: 5%;
-  padding-left: 10%;
+  padding-left: 5%;
   padding-bottom: 70%;
   font-size: 30px;
 }
 .side p{
   color: white;
+  font-size: 20px;
 }
 .side h4{
   color: #f7bf8f;
+  font-size: 25px;
 }
