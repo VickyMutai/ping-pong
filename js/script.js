@@ -8,6 +8,8 @@ for (var num=1;num<=number; num++ ){
     pingPonged.push("ping");
   } else if(num % 5 ===){
     pingPonged.push("pong");
+  }else{
+    pingPonged.push(number);
   }
 }
 }
