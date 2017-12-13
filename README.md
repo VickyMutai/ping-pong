@@ -1,5 +1,5 @@
 # ANITAs KITCHEN
-#### This is a website that gives information on anita's kitchen restaurant, v1.0.0
+#### This is a web application for a game called pingpong, v1.0.0
 #### By **Victoria Cherotich Mutai**
 ## Getting Started
 These are instructions to help you get a copy of the project locally on your
@@ -11,12 +11,19 @@ machine.
 &nbsp; &nbsp; &nbsp; &nbsp; GitBash
 * For linux/ubuntu users
 &nbsp; &nbsp; &nbsp; &nbsp; Git
+## How to Copy
+* Open the github [repository](https://github.com/VickyMutai/ping-pong).
+* click on the clone/download button.
+* Copy link/url
+* Go to terminal for ubuntu users and gitbash for windows users
+* use git clone [url] to clone the project.
 ## Technologies Used
 Being a web application I have Used:
 * HTML
 * Javascript
 * CSS
-
+<br/>
+To view the site online use this [link](https://vickymutai.github.io/ping-pong/)
 ## Support and contact details
 Incase of any problems or issues encountered.
 <br/>
