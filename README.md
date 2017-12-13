@@ -34,4 +34,4 @@ Incase of any problems or issues encountered.
 ### License
 This is an open source software therefore the license is [MIT](https://choosealicense.com/licenses/mit/)
 <br/><br/>
-Copyright (c) 2017 **Legacy Softwares**
+Copyright (c) 2017 Legacy Softwares
